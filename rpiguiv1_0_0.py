@@ -1,5 +1,11 @@
+#!/usr/bin/env python
+
+try:
+    from Tkinter import *
+except ImportError:
+    from tkinter import *
+
 import subprocess
-from tkinter import *
 import os
 from gpiozero import CPUTemperature
 import dictionary
