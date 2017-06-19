@@ -15,7 +15,7 @@ RPiInfoGui uses Python 2 and up, as well as [Tkinter](https://wiki.python.org/mo
 If you have run this successfully on your Raspberry Pi of a different Model or Revision, please commit to the README.md file with your revision version.
 
 
-##Executing
+## Executing
 To start the program, open up the terminal and follow these steps:
 
 1. Navigate to the directory of the file (Example: *cd Desktop/rpiinfogui-master*)
