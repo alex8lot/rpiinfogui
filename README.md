@@ -15,5 +15,12 @@ RPiInfoGui uses Python 2 and up, as well as [Tkinter](https://wiki.python.org/mo
 If you have run this successfully on your Raspberry Pi of a different Model or Revision, please commit to the README.md file with your revision version.
 
 
+##Executing
+To start the program, open up the terminal and follow these steps:
 
-To start, double click on the *rpiguiv1_0_0.py* file and select "Execute".
+1. Navigate to the directory of the file (Example: *cd Desktop/rpiinfogui-master*)
+2. Run the command *nohup python rpiguiv1_0_0.py*
+3. Close the terminal
+
+Alternatively, you can allow the option to open by doubleclicking by navigating to the directory and typing in *chmod +x rpiguiv1_0_0.py*.
+
