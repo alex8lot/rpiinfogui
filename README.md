@@ -8,8 +8,12 @@ The Raspberry Pi Info Gui is a simple program made in Python using Tkinter that 
 - IP Address
 - SSID
 
-RPiInfoGui requires Python 3 and up, as well as [Tkinter](https://wiki.python.org/moin/TkInter). As of now, this has been tested on the following Raspberry Pi Models:
+RPiInfoGui uses Python 2 and up, as well as [Tkinter](https://wiki.python.org/moin/TkInter). As of now, this has been tested on the following Raspberry Pi Models:
 
 - Raspberry Pi 3 Model B (a02082)
 
 If you have run this successfully on your Raspberry Pi of a different Model or Revision, please commit to the README.md file with your revision version.
+
+
+
+To start, double click on the *rpiguiv1_0_0.py* file and select "Execute".
