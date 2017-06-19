@@ -1,9 +1,9 @@
 # Raspberry Pi Info Gui - v1.0.0
 The Raspberry Pi Info Gui is a simple program made in Python using Tkinter that displays a graphical user interface (GUI) that displays some basic information about the user's Raspberry Pi. The information shown is:
-###Hardware
+### Hardware
 - CPU Temperature
 - Raspberry Pi Model (Revision)
-##Network Information
+### Network Information
 - Hostname
 - IP Address
 - SSID
